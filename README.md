@@ -1,4 +1,4 @@
-# Credit Rrisk Analysis with Python
+# Credit Risk Analysis with Python
 
 In this project, an analysis of the most significant factors influencing Home Loans has been conducted. HomeBank financial company operates in Urban, Semiurban, and Rural areas, and they employ application forms for mortgage applications as part of their working model. These forms collect essential customer information, including Gender, Marital Status, Education, Number of Dependents, Income, and Loan Amount.
 
@@ -42,6 +42,8 @@ To test the hypothesis that has been created in the begining, the comparision of
 ![alt text](https://github.com/begussimo/credit-risk-analysis-with-python/blob/main/images/Bivariate3.png)
 
 ![alt text](https://github.com/begussimo/credit-risk-analysis-with-python/blob/main/images/Bivariate4.png)
+
+And the rest of the analysis will be more towards income related bivariate analysis with loan status. How the applicant,coapplicant,total income would affect the loan approval status.
 
 ![alt text](https://github.com/begussimo/credit-risk-analysis-with-python/blob/main/images/Bivariate5.jpeg)
 

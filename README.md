@@ -62,3 +62,8 @@ Heatmaps can be used to colorize the data variations and demonstrate their relat
 ![alt text](https://github.com/begussimo/credit-risk-analysis-with-python/blob/main/images/Corr.jpeg)
 
 As it can be seen from the heatmap, the most corrolated values are Applicant income-Loan Amount and also Credit History-Loan Status.
+
+### Conlusion and Insights
+
+In this analysis, all the hypotheses that were formulated have been validated. Specifically, the variables found to exert the greatest influence on loan approval status are income, credit history, and loan amount. Furthermore, the analysis identified that the property area also plays a significant role in loan approval, with semiurban areas exhibiting a higher loan approval rate compared to urban or rural areas.
+
